@@ -1,0 +1,29 @@
+{
+  "subtitle": "", 
+  "description": "", 
+  "language": "eng_GB", 
+  "title": "Can I go to the hospital for care immediately after the incident?", 
+  "primary_category": "2ea3d447386b443cba3f1197e3188657", 
+  "created_at": "2015-07-04T05:05:26.721809+00:00", 
+  "featured_in_category": true, 
+  "modified_at": "2015-07-04T05:05:26.722009+00:00", 
+  "_version": {
+    "package_version": "1.4.0", 
+    "language_version": "2.7.6", 
+    "language": "python", 
+    "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
+    "package": "elastic-git"
+  }, 
+  "linked_pages": [], 
+  "id": null, 
+  "content": "Yes! All hospitals in India, whether public or private, are legally required to immediately provide first aid or medical treatment free of cost to rape survivors. Many doctors - even those who frequently treat rape survivors - will not suggest/offer many tests, so you must seek them out!", 
+  "source": null, 
+  "featured": false, 
+  "author_tags": [], 
+  "image": null, 
+  "published": null, 
+  "position": 0, 
+  "image_host": "http://thumbor.unicore.io", 
+  "slug": "can-i-go-hospital-care-immediately-after-incident", 
+  "uuid": "bb81b826ab37473ca442f6155c6417d7"
+}
