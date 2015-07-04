@@ -1,0 +1,29 @@
+{
+  "subtitle": "", 
+  "description": "", 
+  "language": "eng_GB", 
+  "title": "What is the two-finger test?", 
+  "primary_category": "2ea3d447386b443cba3f1197e3188657", 
+  "created_at": "2015-07-04T05:07:49.744847+00:00", 
+  "featured_in_category": true, 
+  "modified_at": "2015-07-04T05:07:49.745132+00:00", 
+  "_version": {
+    "package_version": "1.4.0", 
+    "language_version": "2.7.6", 
+    "language": "python", 
+    "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
+    "package": "elastic-git"
+  }, 
+  "linked_pages": [], 
+  "id": null, 
+  "content": "The \u201ctwo-finger test\u201d is an **illegal** procedure used by some doctors to figure out whether a rape has been committed. It is a completely bogus practice used commonly to put blame on the victim. Indian law has made the practice illegal.", 
+  "source": null, 
+  "featured": false, 
+  "author_tags": [], 
+  "image": null, 
+  "published": null, 
+  "position": 0, 
+  "image_host": "http://thumbor.unicore.io", 
+  "slug": "what-two-finger-test", 
+  "uuid": "317244960e10410e92096b312a3a8263"
+}
