@@ -10,11 +10,14 @@
   "_version": {
     "package_version": "1.4.0", 
     "language_version": "2.7.6", 
-    "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
     "language": "python", 
+    "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
     "package": "elastic-git"
   }, 
-  "linked_pages": [], 
+  "linked_pages": [
+    "bf537bbac7714336a8ea5d1b7c9783c1", 
+    "bb81b826ab37473ca442f6155c6417d7"
+  ], 
   "id": null, 
   "content": "The \u201ctwo-finger test\u201d is an **illegal** procedure used by some doctors to figure out whether a rape has been committed. It is a completely bogus practice used commonly to put blame on the victim. Indian law has made the practice illegal.", 
   "source": null, 
