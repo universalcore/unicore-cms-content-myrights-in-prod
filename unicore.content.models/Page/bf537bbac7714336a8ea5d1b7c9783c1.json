@@ -1,0 +1,29 @@
+{
+  "subtitle": "", 
+  "description": "", 
+  "language": "eng_GB", 
+  "title": "What tests should I ask my doctor for?", 
+  "primary_category": "2ea3d447386b443cba3f1197e3188657", 
+  "created_at": "2015-07-04T05:06:26.913499+00:00", 
+  "featured_in_category": false, 
+  "modified_at": "2015-07-04T05:06:26.913778+00:00", 
+  "_version": {
+    "package_version": "1.4.0", 
+    "language_version": "2.7.6", 
+    "language": "python", 
+    "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
+    "package": "elastic-git"
+  }, 
+  "linked_pages": [], 
+  "id": null, 
+  "content": "Every survivor should be treated/tested for concussions and internal injuries, pregnancy, and sexually transmitted diseases and HIV-AIDS. More extensive medical treatment may be required, and some health professionals suggest survivors to stay in hospital for 24-48 hours for observation.", 
+  "source": null, 
+  "featured": false, 
+  "author_tags": [], 
+  "image": null, 
+  "published": null, 
+  "position": 0, 
+  "image_host": "http://thumbor.unicore.io", 
+  "slug": "what-tests-should-i-ask-my-doctor", 
+  "uuid": "bf537bbac7714336a8ea5d1b7c9783c1"
+}
