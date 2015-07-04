@@ -1,0 +1,29 @@
+{
+  "subtitle": "", 
+  "description": "", 
+  "language": "eng_GB", 
+  "title": "What should I expect from the process of filing a case?", 
+  "primary_category": "2ea3d447386b443cba3f1197e3188657", 
+  "created_at": "2015-07-04T05:09:59.149679+00:00", 
+  "featured_in_category": true, 
+  "modified_at": "2015-07-04T05:09:59.149878+00:00", 
+  "_version": {
+    "package_version": "1.4.0", 
+    "language_version": "2.7.6", 
+    "language": "python", 
+    "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
+    "package": "elastic-git"
+  }, 
+  "linked_pages": [], 
+  "id": null, 
+  "content": "\"Filing a FIR, and following it up is a tedious and often challenges process. This is why our first point of advice is to find a supportive friend or family find to help you through the process. To help the process along, try the following:\r\nCall the police control room, tell them your location and ask for the mobile number of the ACP of the zone. Use your trusted friend or family member to go through your story and write it down. Having it ready will speed up the process. Hiring your own lawyer. It helps to have one more person keenly paying attention to your case. There are NGOs who provide advocates at little to no cost.\"", 
+  "source": null, 
+  "featured": false, 
+  "author_tags": [], 
+  "image": null, 
+  "published": null, 
+  "position": 0, 
+  "image_host": "http://thumbor.unicore.io", 
+  "slug": "what-should-i-expect-process-filing-case", 
+  "uuid": "15575d49edbd49eeb290caff102a98fe"
+}
