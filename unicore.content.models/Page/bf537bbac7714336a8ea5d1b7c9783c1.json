@@ -10,11 +10,14 @@
   "_version": {
     "package_version": "1.4.0", 
     "language_version": "2.7.6", 
-    "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
     "language": "python", 
+    "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
     "package": "elastic-git"
   }, 
-  "linked_pages": [], 
+  "linked_pages": [
+    "bb81b826ab37473ca442f6155c6417d7", 
+    "fcd51e02870941c2815ad3a5fbbcc700"
+  ], 
   "id": null, 
   "content": "Every survivor should be treated/tested for concussions and internal injuries, pregnancy, and sexually transmitted diseases and HIV-AIDS. More extensive medical treatment may be required, and some health professionals suggest survivors to stay in hospital for 24-48 hours for observation.", 
   "source": null, 
