@@ -10,11 +10,14 @@
   "_version": {
     "package_version": "1.4.0", 
     "language_version": "2.7.6", 
-    "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
     "language": "python", 
+    "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
     "package": "elastic-git"
   }, 
-  "linked_pages": [], 
+  "linked_pages": [
+    "fcd51e02870941c2815ad3a5fbbcc700", 
+    "6f3a27e8a8344ce4b01f86e94331c8cd"
+  ], 
   "id": null, 
   "content": "Yes! All hospitals in India, whether public or private, are legally required to immediately provide first aid or medical treatment free of cost to rape survivors. Many doctors - even those who frequently treat rape survivors - will not suggest/offer many tests, so you must seek them out!", 
   "source": null, 
