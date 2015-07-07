@@ -1,0 +1,29 @@
+{
+  "subtitle": "", 
+  "description": "", 
+  "language": "eng_GB", 
+  "title": "What is the legal age for marriage?", 
+  "primary_category": "e97c9cd337c84559b19d6dce42868172", 
+  "created_at": "2015-07-07T02:54:55.546572+00:00", 
+  "featured_in_category": true, 
+  "modified_at": "2015-07-07T02:54:55.546751+00:00", 
+  "_version": {
+    "package_version": "1.4.0", 
+    "language_version": "2.7.6", 
+    "language": "python", 
+    "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
+    "package": "elastic-git"
+  }, 
+  "linked_pages": [], 
+  "id": null, 
+  "content": "According to the 2006 Act, the legal age of marriage for men is 21 years, and for women it is **18 years.** This counters both Hindu and Muslim Family Law that accepts 15, and in some cases even younger, as the acceptable age for marriage.\r\n", 
+  "source": null, 
+  "featured": false, 
+  "author_tags": [], 
+  "image": null, 
+  "published": null, 
+  "position": 0, 
+  "image_host": "http://thumbor.unicore.io", 
+  "slug": "what-legal-age-marriage", 
+  "uuid": "d094e76b4edb4e1ba4676ce712ec3d26"
+}
