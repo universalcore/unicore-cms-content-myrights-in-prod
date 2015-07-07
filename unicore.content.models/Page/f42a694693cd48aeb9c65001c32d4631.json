@@ -1,0 +1,29 @@
+{
+  "subtitle": "", 
+  "description": "", 
+  "language": "eng_GB", 
+  "title": "Whom should the victim of Domestic Violence approach?", 
+  "primary_category": "f3a291e8840a4c75830cdf7f4c9d8123", 
+  "created_at": "2015-07-07T02:07:00.739272+00:00", 
+  "featured_in_category": true, 
+  "modified_at": "2015-07-07T02:07:00.739451+00:00", 
+  "_version": {
+    "package_version": "1.4.0", 
+    "language_version": "2.7.6", 
+    "language": "python", 
+    "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
+    "package": "elastic-git"
+  }, 
+  "linked_pages": [], 
+  "id": null, 
+  "content": "In case of domestic the following in your District you may approach:\r\n\r\na) Protection officer ( notified by State Government)\r\n\r\nb) Service Provider ( notified by State Government )\r\n\r\nc) Police officer\r\n\r\nd) Magistrate\r\n\r\ne) Any well \u2013 wisher or local NGOs who would approach any of the officer mentioned at (a), (b), (c) and above.\r\n", 
+  "source": null, 
+  "featured": false, 
+  "author_tags": [], 
+  "image": null, 
+  "published": null, 
+  "position": 0, 
+  "image_host": "http://thumbor.unicore.io", 
+  "slug": "whom-should-victim-domestic-violence-approach", 
+  "uuid": "f42a694693cd48aeb9c65001c32d4631"
+}
