@@ -1,0 +1,29 @@
+{
+  "subtitle": "", 
+  "description": "", 
+  "language": "eng_GB", 
+  "title": "Can a mother-in-law file an application for reliefs against the daughter-in-law?", 
+  "primary_category": "f3a291e8840a4c75830cdf7f4c9d8123", 
+  "created_at": "2015-07-07T02:05:33.166093+00:00", 
+  "featured_in_category": true, 
+  "modified_at": "2015-07-07T02:05:33.166536+00:00", 
+  "_version": {
+    "package_version": "1.4.0", 
+    "language_version": "2.7.6", 
+    "language": "python", 
+    "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
+    "package": "elastic-git"
+  }, 
+  "linked_pages": [], 
+  "id": null, 
+  "content": "No, a mother-in-law cannot file an application against her daughter-in-law. However, in case where the mother-in-law is facing violence at the hands of her son and daughter-in-law, she can file an application against her son and daughter-in-law as abetting the acts of violence perpetrated by the son. She, however, cannot ask for removal of the daughter in law from a shared household.", 
+  "source": null, 
+  "featured": false, 
+  "author_tags": [], 
+  "image": null, 
+  "published": null, 
+  "position": 0, 
+  "image_host": "http://thumbor.unicore.io", 
+  "slug": "can-mother-law-file-application-reliefs-against-daughter-law", 
+  "uuid": "91d0f41f1f9f427ea5b872e7534b8db9"
+}
