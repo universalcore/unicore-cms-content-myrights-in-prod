@@ -10,11 +10,13 @@
   "_version": {
     "package_version": "1.4.0", 
     "language_version": "2.7.6", 
-    "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
     "language": "python", 
+    "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
     "package": "elastic-git"
   }, 
-  "linked_pages": [], 
+  "linked_pages": [
+    "b9de26f881004bdf95b4317344c49e40"
+  ], 
   "id": null, 
   "content": "The DIR is to be forwarded to the Magistrate by the Protection Officer. A copy of the DIR is to be forwarded to the police officer in charge of the police station in the jurisdiction. The Service Provider on recording the DIR may forward it to the Protection Officer and the Magistrate, if the woman so desires. If the woman so desires, the Protection Officer or a Service Provider can assist her to file an application for relief after recording a DIR. The Dir must be annexed to the application filed in court in such cases.", 
   "source": null, 
