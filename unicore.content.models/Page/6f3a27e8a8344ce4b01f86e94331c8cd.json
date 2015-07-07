@@ -6,17 +6,16 @@
   "primary_category": "2ea3d447386b443cba3f1197e3188657", 
   "created_at": "2015-07-04T05:03:20.782278+00:00", 
   "featured_in_category": true, 
-  "modified_at": "2015-07-04T05:03:20.782741+00:00", 
+  "modified_at": "2015-07-07T03:25:21.161517+00:00", 
   "_version": {
     "package_version": "1.4.0", 
     "language_version": "2.7.6", 
-    "language": "python", 
     "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
+    "language": "python", 
     "package": "elastic-git"
   }, 
   "linked_pages": [
-    "7ba460d34faf46d5879ca8519cccaf9e", 
-    "10dd0f2e633844c2968820c58bdc87ff"
+    "7ba460d34faf46d5879ca8519cccaf9e"
   ], 
   "id": null, 
   "content": "With rape, taking action immediately is critical. While we sincerely hope you never need this information, we encourage you to be well-informed incase you or someone you know is ever affected by rape. This is what you need to know before it happens, so you can act when needed.", 
@@ -25,7 +24,7 @@
   "author_tags": [], 
   "image": null, 
   "published": null, 
-  "position": 0, 
+  "position": 4, 
   "image_host": "http://thumbor.unicore.io", 
   "slug": "what-do-about-rape", 
   "uuid": "6f3a27e8a8344ce4b01f86e94331c8cd"
