@@ -10,11 +10,14 @@
   "_version": {
     "package_version": "1.4.0", 
     "language_version": "2.7.6", 
-    "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
     "language": "python", 
+    "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
     "package": "elastic-git"
   }, 
-  "linked_pages": [], 
+  "linked_pages": [
+    "964fe6ff014e4060a577011a0f9522b5", 
+    "1c5d4d99a042416d933183c75d6930cc"
+  ], 
   "id": null, 
   "content": "In case no Protection Officer/Service Provider has been notified for the area, the victim of domestic violence may directly approach the Police to record her FIR or DIR, which will be presented by the Police Officer to the Magistrate immediately. Alternately, the victim may directly approach the Magistrate with her complaint.\r\n", 
   "source": null, 
