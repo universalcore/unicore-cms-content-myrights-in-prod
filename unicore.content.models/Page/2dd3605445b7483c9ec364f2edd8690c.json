@@ -1,0 +1,29 @@
+{
+  "subtitle": "", 
+  "description": "", 
+  "language": "eng_GB", 
+  "title": "What kind of care does a victim of child sexual abuse need?", 
+  "primary_category": "1a103fee30bc469b8379c69d94454533", 
+  "created_at": "2015-07-07T02:50:10.308791+00:00", 
+  "featured_in_category": true, 
+  "modified_at": "2015-07-07T02:50:10.309156+00:00", 
+  "_version": {
+    "package_version": "1.4.0", 
+    "language_version": "2.7.6", 
+    "language": "python", 
+    "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
+    "package": "elastic-git"
+  }, 
+  "linked_pages": [], 
+  "id": null, 
+  "content": "A child who has experience sexual abuse needs both medical and psychological care to ensure that he or she is able to begin healing. Along with rigorous attention to the psychological health of the child and frequent counseling sessions, the child should also have the following medical tests or treatments:\r\n\r\n - Treatment for cuts, bruises and other injuries including genital injuries, if any.\r\n\r\n - Tests and treatment for internal injuries, if any.\r\n\r\n - Tests and treatment for exposure to sexually transmitted diseases (STDs)\r\n\r\n - Tests for possible pregnancy\r\n", 
+  "source": null, 
+  "featured": false, 
+  "author_tags": [], 
+  "image": null, 
+  "published": null, 
+  "position": 0, 
+  "image_host": "http://thumbor.unicore.io", 
+  "slug": "what-kind-care-does-victim-child-sexual-abuse-need", 
+  "uuid": "2dd3605445b7483c9ec364f2edd8690c"
+}
