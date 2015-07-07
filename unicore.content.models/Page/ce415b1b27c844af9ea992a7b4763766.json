@@ -10,11 +10,14 @@
   "_version": {
     "package_version": "1.4.0", 
     "language_version": "2.7.6", 
-    "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
     "language": "python", 
+    "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
     "package": "elastic-git"
   }, 
-  "linked_pages": [], 
+  "linked_pages": [
+    "f42a694693cd48aeb9c65001c32d4631", 
+    "8cfec97cf60442cd851702265f240a0b"
+  ], 
   "id": null, 
   "content": "The victim can claim the right of residence in shared household in case the property belongs to her husband or it is a joint family property in which her husband is/ was a member\r\n", 
   "source": null, 
