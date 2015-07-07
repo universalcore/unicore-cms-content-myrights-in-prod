@@ -1,0 +1,29 @@
+{
+  "subtitle": "", 
+  "description": "", 
+  "language": "eng_GB", 
+  "title": "Is it mandatory for doctors to provide care to children who have suffered sexual abuse?", 
+  "primary_category": "1a103fee30bc469b8379c69d94454533", 
+  "created_at": "2015-07-07T02:49:15.985446+00:00", 
+  "featured_in_category": true, 
+  "modified_at": "2015-07-07T02:49:15.985635+00:00", 
+  "_version": {
+    "package_version": "1.4.0", 
+    "language_version": "2.7.6", 
+    "language": "python", 
+    "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
+    "package": "elastic-git"
+  }, 
+  "linked_pages": [], 
+  "id": null, 
+  "content": "Yes, doctors have a responsibility to treat children who they have identified as having face sexual abuse. They also are obligated to report the abuse to the police, even if they do not inform or confirm with the parents or the child that abuse has taken place.\r\n", 
+  "source": null, 
+  "featured": false, 
+  "author_tags": [], 
+  "image": null, 
+  "published": null, 
+  "position": 0, 
+  "image_host": "http://thumbor.unicore.io", 
+  "slug": "it-mandatory-doctors-provide-care-children-who-have-suffered-sexual-abuse", 
+  "uuid": "7e5f5799c7b04083a6a39a0f4b92f9ab"
+}
