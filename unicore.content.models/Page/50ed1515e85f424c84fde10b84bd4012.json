@@ -1,0 +1,29 @@
+{
+  "subtitle": "", 
+  "description": "", 
+  "language": "eng_GB", 
+  "title": "What should I do if I want to intervene in a child marriage?", 
+  "primary_category": "e97c9cd337c84559b19d6dce42868172", 
+  "created_at": "2015-07-07T02:59:59.370222+00:00", 
+  "featured_in_category": true, 
+  "modified_at": "2015-07-07T02:59:59.370411+00:00", 
+  "_version": {
+    "package_version": "1.4.0", 
+    "language_version": "2.7.6", 
+    "language": "python", 
+    "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
+    "package": "elastic-git"
+  }, 
+  "linked_pages": [], 
+  "id": null, 
+  "content": "You should notify your local authorities as soon as possible. Local NGOs, Police, Panchayat Members, and/or Child Marriage Prohibition Officers will all be able to act on your behalf if you raise the concern to them!\r\n", 
+  "source": null, 
+  "featured": false, 
+  "author_tags": [], 
+  "image": null, 
+  "published": null, 
+  "position": 0, 
+  "image_host": "http://thumbor.unicore.io", 
+  "slug": "what-should-i-do-if-i-want-intervene-child-marriage", 
+  "uuid": "50ed1515e85f424c84fde10b84bd4012"
+}
