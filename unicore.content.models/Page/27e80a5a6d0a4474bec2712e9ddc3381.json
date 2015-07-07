@@ -6,12 +6,12 @@
   "primary_category": "04db0930215f4053aef16c0a3a93ac23", 
   "created_at": "2015-07-07T02:35:58.158987+00:00", 
   "featured_in_category": true, 
-  "modified_at": "2015-07-07T02:35:58.159395+00:00", 
+  "modified_at": "2015-07-07T03:20:01.096135+00:00", 
   "_version": {
     "package_version": "1.4.0", 
     "language_version": "2.7.6", 
-    "language": "python", 
     "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
+    "language": "python", 
     "package": "elastic-git"
   }, 
   "linked_pages": [
@@ -25,7 +25,7 @@
   "author_tags": [], 
   "image": null, 
   "published": null, 
-  "position": 0, 
+  "position": 2, 
   "image_host": "http://thumbor.unicore.io", 
   "slug": "my-laws-didnt-ask-dowry-time-wedding-now-they-call-me-names-and-make-me-feel-inferior-home-what-can-i-do", 
   "uuid": "27e80a5a6d0a4474bec2712e9ddc3381"
