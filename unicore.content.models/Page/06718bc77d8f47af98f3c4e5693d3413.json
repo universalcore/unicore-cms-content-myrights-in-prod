@@ -1,0 +1,29 @@
+{
+  "subtitle": "", 
+  "description": "", 
+  "language": "eng_GB", 
+  "title": " What is child abuse?", 
+  "primary_category": "1a103fee30bc469b8379c69d94454533", 
+  "created_at": "2015-07-07T02:41:27.660000+00:00", 
+  "featured_in_category": true, 
+  "modified_at": "2015-07-07T02:41:27.660185+00:00", 
+  "_version": {
+    "package_version": "1.4.0", 
+    "language_version": "2.7.6", 
+    "language": "python", 
+    "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
+    "package": "elastic-git"
+  }, 
+  "linked_pages": [], 
+  "id": null, 
+  "content": "Child abuse is the subjecting of a person under the age of 18 years to one or more of the following abuses:\r\n\r\n - **Verbal abuse :**\r\n\r\nSpeaking offensive words to the child, cursing and being generally rude to the child. Making fun or bullying a child due to physical or mental challenge, poor performance in a test, sport, game, household chore, etc. Breaking the self confidence of a child, constantly and intentionally putting down a child, telling him or her they are good for nothing.\r\n\r\n - **Physical abuse:**\r\n\r\nHarming a child through physical force or violence through hitting, slapping, pushing, kicking, punching, torture, and any other act that cases bodily harm or hurt to a child.\r\n\r\n - **Labour Abuse:**\r\n\r\nForcing a child to work at any job for a wage. Forcing a child to work excessively at household chores, causing the child to neglect other activities like school and playing.\r\n\r\n - **Sexual Abuse :**\r\n\r\nAny sexual act committed toward a child including kissing, touching, exposing a child to pornographic literature, acts or movies, forcing the child to touch you, and manipulating the child with words or gifts.\r\n", 
+  "source": null, 
+  "featured": false, 
+  "author_tags": [], 
+  "image": null, 
+  "published": null, 
+  "position": 0, 
+  "image_host": "http://thumbor.unicore.io", 
+  "slug": "what-child-abuse", 
+  "uuid": "06718bc77d8f47af98f3c4e5693d3413"
+}
