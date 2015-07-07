@@ -1,0 +1,29 @@
+{
+  "subtitle": "", 
+  "description": "", 
+  "language": "eng_GB", 
+  "title": "Against whom can a complaint be filed?", 
+  "primary_category": "f3a291e8840a4c75830cdf7f4c9d8123", 
+  "created_at": "2015-07-07T02:04:29.513261+00:00", 
+  "featured_in_category": true, 
+  "modified_at": "2015-07-07T02:04:29.513598+00:00", 
+  "_version": {
+    "package_version": "1.4.0", 
+    "language_version": "2.7.6", 
+    "language": "python", 
+    "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
+    "package": "elastic-git"
+  }, 
+  "linked_pages": [], 
+  "id": null, 
+  "content": "A complaint may be made against:\r\n\r\n - Any adult male member who has been in a domestic relationship with the women\r\n\r\n - Relatives of the husband or the male partner\r\n\r\n - Complaint can be filed by a wife against the husband\u2019s female relatives e.g. mother-in-law, sister-in-law etc.,", 
+  "source": null, 
+  "featured": false, 
+  "author_tags": [], 
+  "image": null, 
+  "published": null, 
+  "position": 0, 
+  "image_host": "http://thumbor.unicore.io", 
+  "slug": "against-whom-can-complaint-be-filed", 
+  "uuid": "6d98b4a7efc244caad32d9734da29f4f"
+}
