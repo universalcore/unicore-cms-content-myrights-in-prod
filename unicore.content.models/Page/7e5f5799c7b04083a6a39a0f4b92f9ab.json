@@ -10,11 +10,15 @@
   "_version": {
     "package_version": "1.4.0", 
     "language_version": "2.7.6", 
-    "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
     "language": "python", 
+    "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
     "package": "elastic-git"
   }, 
-  "linked_pages": [], 
+  "linked_pages": [
+    "0282faf5e48c498e931aaf0ed811b747", 
+    "24be6a04dd86413b8e2d012469761a52", 
+    "06718bc77d8f47af98f3c4e5693d3413"
+  ], 
   "id": null, 
   "content": "Yes, doctors have a responsibility to treat children who they have identified as having face sexual abuse. They also are obligated to report the abuse to the police, even if they do not inform or confirm with the parents or the child that abuse has taken place.\r\n", 
   "source": null, 
