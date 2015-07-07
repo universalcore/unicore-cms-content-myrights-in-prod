@@ -10,11 +10,13 @@
   "_version": {
     "package_version": "1.4.0", 
     "language_version": "2.7.6", 
-    "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
     "language": "python", 
+    "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
     "package": "elastic-git"
   }, 
-  "linked_pages": [], 
+  "linked_pages": [
+    "507c650a24c64b22b7503a1d7ef31eff"
+  ], 
   "id": null, 
   "content": "According to the 2006 Act, the legal age of marriage for men is 21 years, and for women it is **18 years.** This counters both Hindu and Muslim Family Law that accepts 15, and in some cases even younger, as the acceptable age for marriage.\r\n", 
   "source": null, 
