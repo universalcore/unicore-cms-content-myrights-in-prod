@@ -1,0 +1,29 @@
+{
+  "subtitle": "", 
+  "description": "", 
+  "language": "eng_GB", 
+  "title": "Can any compensation be granted by the Magistrate to the victim of domestic violence?", 
+  "primary_category": "f3a291e8840a4c75830cdf7f4c9d8123", 
+  "created_at": "2015-07-07T02:31:25.759897+00:00", 
+  "featured_in_category": true, 
+  "modified_at": "2015-07-07T02:31:25.760293+00:00", 
+  "_version": {
+    "package_version": "1.4.0", 
+    "language_version": "2.7.6", 
+    "language": "python", 
+    "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
+    "package": "elastic-git"
+  }, 
+  "linked_pages": [], 
+  "id": null, 
+  "content": "The victim of the domestic violence may be granted compensation and damages for physical injuries, mental torture and emotional distress caused by domestic violence, besides other monetary relief.\r\n", 
+  "source": null, 
+  "featured": false, 
+  "author_tags": [], 
+  "image": null, 
+  "published": null, 
+  "position": 0, 
+  "image_host": "http://thumbor.unicore.io", 
+  "slug": "can-any-compensation-be-granted-magistrate-victim-domestic-violence", 
+  "uuid": "964fe6ff014e4060a577011a0f9522b5"
+}
