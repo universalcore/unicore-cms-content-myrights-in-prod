@@ -10,11 +10,15 @@
   "_version": {
     "package_version": "1.4.0", 
     "language_version": "2.7.6", 
-    "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
     "language": "python", 
+    "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
     "package": "elastic-git"
   }, 
-  "linked_pages": [], 
+  "linked_pages": [
+    "7e5f5799c7b04083a6a39a0f4b92f9ab", 
+    "24be6a04dd86413b8e2d012469761a52", 
+    "06718bc77d8f47af98f3c4e5693d3413"
+  ], 
   "id": null, 
   "content": "A child who has experience sexual abuse needs both medical and psychological care to ensure that he or she is able to begin healing. Along with rigorous attention to the psychological health of the child and frequent counseling sessions, the child should also have the following medical tests or treatments:\r\n\r\n - Treatment for cuts, bruises and other injuries including genital injuries, if any.\r\n\r\n - Tests and treatment for internal injuries, if any.\r\n\r\n - Tests and treatment for exposure to sexually transmitted diseases (STDs)\r\n\r\n - Tests for possible pregnancy\r\n", 
   "source": null, 
