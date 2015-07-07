@@ -1,0 +1,29 @@
+{
+  "subtitle": "", 
+  "description": "", 
+  "language": "eng_GB", 
+  "title": "What should a woman do if she faces domestic violence at night or is thrown out of the matrimonial home at night?", 
+  "primary_category": "f3a291e8840a4c75830cdf7f4c9d8123", 
+  "created_at": "2015-07-07T02:30:38.471637+00:00", 
+  "featured_in_category": true, 
+  "modified_at": "2015-07-07T02:30:38.472035+00:00", 
+  "_version": {
+    "package_version": "1.4.0", 
+    "language_version": "2.7.6", 
+    "language": "python", 
+    "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
+    "package": "elastic-git"
+  }, 
+  "linked_pages": [], 
+  "id": null, 
+  "content": "In case of occurrence of an incident of domestic violence, either the victim or any other person on her behalf may give information to Protection Officer/Service Provider/Local police/Judicial Magistrate by any means of communication including telephone. India. The Domestic Incident Report (DIR) prepared by any of the above officers shall be immediately presented to the Magistrate for relief to ensure safety of the victim and to prevent further violence.\r\n\r\n", 
+  "source": null, 
+  "featured": false, 
+  "author_tags": [], 
+  "image": null, 
+  "published": null, 
+  "position": 0, 
+  "image_host": "http://thumbor.unicore.io", 
+  "slug": "what-should-woman-do-if-she-faces-domestic-violence-night-or-thrown-out-matrimonial-home-night", 
+  "uuid": "1c5d4d99a042416d933183c75d6930cc"
+}
