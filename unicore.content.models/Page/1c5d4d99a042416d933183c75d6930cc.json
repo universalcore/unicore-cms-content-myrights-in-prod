@@ -10,11 +10,14 @@
   "_version": {
     "package_version": "1.4.0", 
     "language_version": "2.7.6", 
-    "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
     "language": "python", 
+    "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
     "package": "elastic-git"
   }, 
-  "linked_pages": [], 
+  "linked_pages": [
+    "b7413e1ffae54c0ea8dbf7986474074c", 
+    "d7ef20603e894b2e812f233b9f372922"
+  ], 
   "id": null, 
   "content": "In case of occurrence of an incident of domestic violence, either the victim or any other person on her behalf may give information to Protection Officer/Service Provider/Local police/Judicial Magistrate by any means of communication including telephone. India. The Domestic Incident Report (DIR) prepared by any of the above officers shall be immediately presented to the Magistrate for relief to ensure safety of the victim and to prevent further violence.\r\n\r\n", 
   "source": null, 
