@@ -10,11 +10,15 @@
   "_version": {
     "package_version": "1.4.0", 
     "language_version": "2.7.6", 
-    "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
     "language": "python", 
+    "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
     "package": "elastic-git"
   }, 
-  "linked_pages": [], 
+  "linked_pages": [
+    "32dec9f6d7b14471814ac921138a391b", 
+    "f42a694693cd48aeb9c65001c32d4631", 
+    "91d0f41f1f9f427ea5b872e7534b8db9"
+  ], 
   "id": null, 
   "content": "When a Police/ Protection Officer/ Service Provider/ Magistrate receives information about an incident of domestic violence or witnesses, it is duty bound to inform the victim about her right to free legal services under the Legal Services Authorities Act, 1987. Thus, the victim can get legal action for relief with free legal aid and advice even when she does not have financial means.", 
   "source": null, 
