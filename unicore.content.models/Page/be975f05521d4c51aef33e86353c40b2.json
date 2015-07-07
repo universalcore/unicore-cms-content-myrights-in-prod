@@ -10,11 +10,14 @@
   "_version": {
     "package_version": "1.4.0", 
     "language_version": "2.7.6", 
-    "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
     "language": "python", 
+    "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
     "package": "elastic-git"
   }, 
-  "linked_pages": [], 
+  "linked_pages": [
+    "e821815725ac4936b780210176ada891", 
+    "b9de26f881004bdf95b4317344c49e40"
+  ], 
   "id": null, 
   "content": "Yes, the past conduct of the perpetrator of domestic violence assumes significance in deciding about the ex-parte / interim relief, and the subsequent relief to be granted to the victim of domestic violence under the PWDVA, 2005 and formulation and assessment of the \u2018Safety Plan\u2019 to secure the future of the victim.", 
   "source": null, 
