@@ -1,0 +1,29 @@
+{
+  "subtitle": "Test ABC", 
+  "description": "Test ABC", 
+  "language": "hin_IN", 
+  "title": "Test Article", 
+  "primary_category": "afeb65b1cbba4a319d7d1631b76ed856", 
+  "created_at": "2015-09-20T12:45:10.182731+00:00", 
+  "featured_in_category": false, 
+  "modified_at": "2015-09-20T12:45:10.183173+00:00", 
+  "_version": {
+    "package_version": "1.4.3", 
+    "language_version": "2.7.6", 
+    "language": "python", 
+    "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
+    "package": "elastic-git"
+  }, 
+  "linked_pages": [], 
+  "id": null, 
+  "content": "Are you able to see the article?", 
+  "source": null, 
+  "featured": true, 
+  "author_tags": [], 
+  "image": null, 
+  "published": null, 
+  "position": 0, 
+  "image_host": "http://thumbor.unicore.io", 
+  "slug": "test-article", 
+  "uuid": "91278370e9da4dabbb7715d557057861"
+}
