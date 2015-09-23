@@ -4,14 +4,14 @@
   "language": "hin_IN", 
   "title": "\u0918\u0930\u0947\u0932\u0942 \u0939\u093f\u0902\u0938\u093e \u0938\u0947 \u092e\u0939\u093f\u0932\u093e\u0913\u0902 \u0915\u0940 \u0938\u0941\u0930\u0915\u094d\u0937\u093e \u0905\u0927\u093f\u0928\u093f\u092f\u092e 2005 \u0915\u0947 \u0905\u0928\u094d\u0924\u0930\u094d\u0917\u0924 \u0915\u094d\u092f\u093e \u0930\u093e\u0939\u0924 \u092e\u093f\u0932 \u0938\u0915\u0924\u0940 \u0939\u0948\u0964 ", 
   "primary_category": "c6b3032e29a94dbba946d72f544af2db", 
-  "created_at": "2015-09-23T13:22:41.481751+00:00", 
+  "created_at": "2015-09-23T13:22:41+00:00", 
   "featured_in_category": true, 
-  "modified_at": "2015-09-23T13:22:41.481936+00:00", 
+  "modified_at": "2015-09-23T13:23:11.043176+00:00", 
   "_version": {
     "package_version": "1.4.3", 
     "language_version": "2.7.6", 
-    "language": "python", 
     "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
+    "language": "python", 
     "package": "elastic-git"
   }, 
   "linked_pages": [
