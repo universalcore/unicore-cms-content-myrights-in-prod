@@ -1,0 +1,20 @@
+{
+  "subtitle": "", 
+  "uuid": "94ed77426bd946e391068be4d95d73d5", 
+  "language": "tel_IN", 
+  "title": "\u0c30\u0c47\u0c2a\u0c4d (\u0c05\u0c24\u0c4d\u0c2f\u0c3e\u0c1a\u0c3e\u0c30\u0c02)", 
+  "image": null, 
+  "_version": {
+    "package_version": "1.4.3", 
+    "language_version": "2.7.6", 
+    "language": "python", 
+    "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
+    "package": "elastic-git"
+  }, 
+  "slug": "Rape", 
+  "source": null, 
+  "position": 0, 
+  "image_host": "http://thumbor.unicore.io", 
+  "featured_in_navbar": true, 
+  "id": null
+}
