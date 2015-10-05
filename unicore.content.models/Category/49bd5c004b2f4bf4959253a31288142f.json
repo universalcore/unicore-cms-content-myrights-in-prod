@@ -1,0 +1,20 @@
+{
+  "subtitle": "", 
+  "uuid": "49bd5c004b2f4bf4959253a31288142f", 
+  "language": "tel_IN", 
+  "title": "\u0c35\u0c30\u0c15\u0c1f\u0c4d\u0c28\u0c02", 
+  "image": null, 
+  "_version": {
+    "package_version": "1.4.3", 
+    "language_version": "2.7.6", 
+    "language": "python", 
+    "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
+    "package": "elastic-git"
+  }, 
+  "slug": "dowry", 
+  "source": null, 
+  "position": 0, 
+  "image_host": "http://thumbor.unicore.io", 
+  "featured_in_navbar": false, 
+  "id": null
+}
