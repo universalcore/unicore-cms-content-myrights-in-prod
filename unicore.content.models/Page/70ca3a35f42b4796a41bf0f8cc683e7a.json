@@ -10,11 +10,14 @@
   "_version": {
     "package_version": "1.5.0", 
     "language_version": "2.7.6", 
-    "language_version_string": "2.7.6 (default, Jun 22 2015, 18:01:27) \n[GCC 4.8.2]", 
     "language": "python", 
+    "language_version_string": "2.7.6 (default, Jun 22 2015, 18:01:27) \n[GCC 4.8.2]", 
     "package": "elastic-git"
   }, 
-  "linked_pages": [], 
+  "linked_pages": [
+    "0b45098a0230495caa5de317528c3168", 
+    "aead11bafb7c4bd69d79dc00b0f612b7"
+  ], 
   "id": null, 
   "content": "\u09a4\u09be\u09b0 \u09b8\u09cd\u09ac\u09be\u09ae\u09c0 \u09af\u09a6\u09bf \u09b8\u09ae\u09cd\u09aa\u09a4\u09cd\u09a4\u09bf\u09b0 \u09ae\u09be\u09b2\u09bf\u0995 \u09b9\u09df \u0985\u09a5\u09ac\u09be \u09af\u09cc\u09a5 \u09aa\u09b0\u09bf\u09ac\u09be\u09b0\u09c7\u09b0 \u09b8\u09ae\u09cd\u09aa\u09a4\u09cd\u09a4\u09bf\u09b0 \u0985\u0982\u09b6\u09c0\u09a6\u09be\u09b0/\u09b8\u09a6\u09b8\u09cd\u09af \u09a4\u09be\u09b0 \u09b8\u09cd\u09ac\u09be\u09ae\u09c0 \u09b9\u09df \u09a4\u09be\u09b9\u09b2\u09c7 \u09a8\u09bf\u09b0\u09cd\u09af\u09be\u09a4\u09bf\u09a4\u09be \u09ac\u09be\u09b8 \u0995\u09b0\u09be\u09b0 \u0985\u09a7\u09bf\u0995\u09be\u09b0 \u09a6\u09be\u09ac\u09bf \u0995\u09b0\u09a4\u09c7 \u09aa\u09be\u09b0\u09c7\u0964", 
   "source": null, 
