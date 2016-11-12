@@ -1,0 +1,20 @@
+{
+  "subtitle": "", 
+  "uuid": "29ab5e5a950a466fbf9b86e1f7aac46a", 
+  "language": "ben_IN", 
+  "title": "\u09b6\u09bf\u09b6\u09c1 \u09af\u09cc\u09a8 \u09a8\u09bf\u09b0\u09cd\u09af\u09be\u09a4\u09a8", 
+  "image": null, 
+  "_version": {
+    "package_version": "1.5.0", 
+    "language_version": "2.7.6", 
+    "language": "python", 
+    "language_version_string": "2.7.6 (default, Jun 22 2015, 18:01:27) \n[GCC 4.8.2]", 
+    "package": "elastic-git"
+  }, 
+  "slug": "csa", 
+  "source": null, 
+  "position": 0, 
+  "image_host": "http://thumbor.unicore.io", 
+  "featured_in_navbar": false, 
+  "id": null
+}
