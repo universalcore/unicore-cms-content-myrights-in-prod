@@ -1,0 +1,20 @@
+{
+  "subtitle": "", 
+  "uuid": "b4aca81491bb4d41ae1777048e6f568c", 
+  "language": "ben_IN", 
+  "title": "\u09b6\u09bf\u0995\u09cd\u09b7\u09be \u098f\u09ac\u0982 \u0995\u09be\u099c", 
+  "image": null, 
+  "_version": {
+    "package_version": "1.5.0", 
+    "language_version": "2.7.6", 
+    "language": "python", 
+    "language_version_string": "2.7.6 (default, Jun 22 2015, 18:01:27) \n[GCC 4.8.2]", 
+    "package": "elastic-git"
+  }, 
+  "slug": "Educationwork", 
+  "source": null, 
+  "position": 0, 
+  "image_host": "http://thumbor.unicore.io", 
+  "featured_in_navbar": false, 
+  "id": null
+}
