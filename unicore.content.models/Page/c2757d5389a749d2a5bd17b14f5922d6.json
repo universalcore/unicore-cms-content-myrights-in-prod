@@ -6,12 +6,12 @@
   "primary_category": "d9ef964773b44e61a7e2f2ae26101136", 
   "created_at": "2015-09-24T07:00:25.203450+00:00", 
   "featured_in_category": true, 
-  "modified_at": "2015-09-24T07:00:25.203787+00:00", 
+  "modified_at": "2018-04-03T10:34:09.257822+00:00", 
   "_version": {
     "package_version": "1.4.3", 
     "language_version": "2.7.6", 
-    "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
     "language": "python", 
+    "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
     "package": "elastic-git"
   }, 
   "linked_pages": [], 
@@ -22,7 +22,7 @@
   "author_tags": [], 
   "image": null, 
   "published": null, 
-  "position": 0, 
+  "position": 1, 
   "image_host": "http://thumbor.unicore.io", 
   "slug": "does-daughter-have-right-to-study", 
   "uuid": "c2757d5389a749d2a5bd17b14f5922d6"
