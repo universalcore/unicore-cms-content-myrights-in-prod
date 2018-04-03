@@ -6,18 +6,18 @@
   "primary_category": "c6b3032e29a94dbba946d72f544af2db", 
   "created_at": "2015-09-23T12:55:38.369012+00:00", 
   "featured_in_category": true, 
-  "modified_at": "2015-09-23T12:55:38.369182+00:00", 
+  "modified_at": "2018-04-03T10:33:05.215564+00:00", 
   "_version": {
     "package_version": "1.4.3", 
     "language_version": "2.7.6", 
-    "language": "python", 
     "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
+    "language": "python", 
     "package": "elastic-git"
   }, 
   "linked_pages": [
+    "e1f82c2a054c42e994089964daa6ea8f", 
     "e6d5bd365aee4e4b93e410fdaaa45c6c", 
-    "2829da8c83f34e1a8bcb4b7f17f4d2f5", 
-    "e1f82c2a054c42e994089964daa6ea8f"
+    "2829da8c83f34e1a8bcb4b7f17f4d2f5"
   ], 
   "id": null, 
   "content": "\u0918\u0930\u0947\u0932\u0942 \u0939\u093f\u0928\u094d\u0938\u093e \u0915\u0947 \u092e\u093e\u092e\u0932\u094b\u0902 \u092e\u0947\u0902 \u091c\u093f\u0932\u093e \u0938\u094d\u0924\u0930 \u092a\u0930 \u0907\u0928\u0938\u0947 \u0938\u092e\u094d\u092a\u0930\u094d\u0915 \u0915\u093f\u092f\u093e \u091c\u093e \u0938\u0915\u094d\u0924\u093e \u0939\u0948:\r\n\r\n 1.  \u0930\u093e\u091c\u094d\u092f \u0938\u0930\u0915\u093e\u0930 \u0926\u094d\u0935\u093e\u0930\u093e \u0928\u093e\u092e\u093f\u0924 \u0938\u0941\u0930\u0915\u094d\u0937\u093e \u0905\u0927\u093f\u0915\u093e\u0930\u0940\u0964\r\n 2.  \u0930\u093e\u091c\u094d\u092f \u0938\u0930\u0915\u093e\u0930 \u0926\u094d\u0935\u093e\u0930\u093e \u0928\u093e\u092e\u093f\u0924 \u0938\u0947\u0935\u093e \u092a\u094d\u0930\u0926\u093e\u0924\u093e\u0964 \r\n 3.  \u092a\u0941\u0932\u093f\u0938 \u0905\u0927\u093f\u0915\u093e\u0930\u0940\u0964\r\n 4.  \u092e\u091c\u093f\u0938\u094d\u091f\u094d\u0930\u0947\u091f\u0964 \r\n 5.  \u0915\u094b\u0908 \u0936\u0941\u092d\u091a\u093f\u0902\u0924\u0915/\u0938\u094d\u0925\u093e\u0928\u0940\u092f \u090f\u0928.\u091c\u0940.\u0913. \u091c\u094b \u0909\u092a\u0930\u094b\u0915\u094d\u0924 \u0915\u093f\u0938\u0940 \u0905\u0927\u093f\u0915\u093e\u0930\u0940 \u0938\u0947 \u0938\u092e\u094d\u092a\u0930\u094d\u0915 \u0915\u0930 \u0938\u0915\u0924\u0947 \u0939\u094b\u0964 \r\n\r\n\r\n", 
@@ -26,7 +26,7 @@
   "author_tags": [], 
   "image": null, 
   "published": null, 
-  "position": 0, 
+  "position": 11, 
   "image_host": "http://thumbor.unicore.io", 
   "slug": "whotocontact", 
   "uuid": "2e7e23082ff4432183b22444413063f1"
