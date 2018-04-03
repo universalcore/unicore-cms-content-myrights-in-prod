@@ -6,12 +6,12 @@
   "primary_category": "c6b3032e29a94dbba946d72f544af2db", 
   "created_at": "2015-09-23T14:05:17.030560+00:00", 
   "featured_in_category": true, 
-  "modified_at": "2015-09-23T14:05:17.030841+00:00", 
+  "modified_at": "2018-04-03T10:33:04.094432+00:00", 
   "_version": {
     "package_version": "1.4.3", 
     "language_version": "2.7.6", 
-    "language": "python", 
     "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
+    "language": "python", 
     "package": "elastic-git"
   }, 
   "linked_pages": [
@@ -27,7 +27,7 @@
   "author_tags": [], 
   "image": null, 
   "published": null, 
-  "position": 0, 
+  "position": 3, 
   "image_host": "http://thumbor.unicore.io", 
   "slug": "roleofpolice2005act", 
   "uuid": "68394637bbd44068b25a044c0e37691b"
