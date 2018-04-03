@@ -6,12 +6,12 @@
   "primary_category": "c6b3032e29a94dbba946d72f544af2db", 
   "created_at": "2015-09-23T12:16:39+00:00", 
   "featured_in_category": true, 
-  "modified_at": "2015-09-23T12:47:48.315218+00:00", 
+  "modified_at": "2018-04-03T10:33:05.666332+00:00", 
   "_version": {
     "package_version": "1.4.3", 
     "language_version": "2.7.6", 
-    "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
     "language": "python", 
+    "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
     "package": "elastic-git"
   }, 
   "linked_pages": [
@@ -25,7 +25,7 @@
   "author_tags": [], 
   "image": null, 
   "published": null, 
-  "position": 1, 
+  "position": 14, 
   "image_host": "http://thumbor.unicore.io", 
   "slug": "againstwho", 
   "uuid": "61b00b601c1c4470bcb3499cd3cabf9d"
