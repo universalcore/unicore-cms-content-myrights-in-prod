@@ -6,12 +6,12 @@
   "primary_category": "49bd5c004b2f4bf4959253a31288142f", 
   "created_at": "2015-10-05T10:58:48.988926+00:00", 
   "featured_in_category": true, 
-  "modified_at": "2015-10-05T10:58:48.989126+00:00", 
+  "modified_at": "2018-04-03T10:45:24.918580+00:00", 
   "_version": {
     "package_version": "1.4.3", 
     "language_version": "2.7.6", 
-    "language": "python", 
     "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
+    "language": "python", 
     "package": "elastic-git"
   }, 
   "linked_pages": [
@@ -25,7 +25,7 @@
   "author_tags": [], 
   "image": null, 
   "published": null, 
-  "position": 0, 
+  "position": 1, 
   "image_host": "http://thumbor.unicore.io", 
   "slug": "inlaws", 
   "uuid": "16f0f0661f5444caa076108b999afd4f"
