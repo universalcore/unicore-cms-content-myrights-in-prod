@@ -1,0 +1,20 @@
+{
+  "subtitle": "", 
+  "uuid": "e34b02234b0841f9822c5ca23252492c", 
+  "language": "kan_IN", 
+  "title": "\u0cae\u0c95\u0ccd\u0c95\u0cb3 \u0cae\u0ca6\u0cc1\u0cb5\u0cc6", 
+  "image": null, 
+  "_version": {
+    "package_version": "1.5.0", 
+    "language_version": "2.7.6", 
+    "language": "python", 
+    "language_version_string": "2.7.6 (default, Nov 23 2017, 15:53:45) \n[GCC 4.8.4]", 
+    "package": "elastic-git"
+  }, 
+  "slug": "child-marriage", 
+  "source": null, 
+  "position": 0, 
+  "image_host": "http://thumbor.unicore.io", 
+  "featured_in_navbar": false, 
+  "id": null
+}
