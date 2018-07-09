@@ -1,17 +1,17 @@
 {
   "subtitle": "", 
-  "description": "", 
+  "description": "Yes!", 
   "language": "eng_GB", 
-  "title": "If a man is watching a woman or a girl, when she does not want to be watched or isn\u2019t expecting to be watched wrong?", 
+  "title": "Is it wrong if a man watches a woman or a girl when she does not want to be watched or isn\u2019t expecting to be watched?", 
   "primary_category": "a7a0653c9ea84ca3b7b6bb59324227b7", 
-  "created_at": "2015-07-04T04:55:16.890772+00:00", 
+  "created_at": "2015-07-04T04:55:16+00:00", 
   "featured_in_category": true, 
-  "modified_at": "2015-07-07T03:23:07.708917+00:00", 
+  "modified_at": "2018-07-09T14:16:03.568202+00:00", 
   "_version": {
     "package_version": "1.4.0", 
     "language_version": "2.7.6", 
-    "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
     "language": "python", 
+    "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
     "package": "elastic-git"
   }, 
   "linked_pages": [
@@ -19,14 +19,14 @@
     "0255c0953a12445da4b5c2c2b2c9ac3e"
   ], 
   "id": null, 
-  "content": "\"Yes!\r\nAny man who watches or captures the image of a woman or girl engaging in a private activity in circumstances where she would usually have the expectation of not being observed is acting in violation of the IPC Section 345 C. It is also an offense for any image captured in these scenarios to be distributed.\r\nAdditionally, under Section 345 D it is also an offense to follow a woman, to repeatedly contact a woman trying to foster personal interaction against her will, to monitor her use of internet, email or other form of electronic communication, and to spy on her in any manner that results in a fear of violence or serious alarm or distress in the mind of such woman. These are considered very serious offenses against the mental peace of a woman!\"", 
+  "content": "Yes!\r\nAny man who watches or captures the image of a woman or girl engaging in a private activity or in circumstances where she would usually have the expectation of not being observed is acting in violation of the IPC Section 345 C. It is also an offense to capture any images or distribute them.\r\nAdditionally, under Section 345D it is also an offense to stalk a woman - to repeatedly contact a woman, trying to foster personal interaction against her will; to monitor her use of internet, email or other form of electronic communication; and to spy on her in any manner that results in a fear of violence or serious alarm or distress in the mind of the woman. These are considered very serious offenses upsetting the mental peace of a woman!", 
   "source": null, 
   "featured": false, 
   "author_tags": [], 
   "image": null, 
   "published": null, 
-  "position": 5, 
+  "position": 65, 
   "image_host": "http://thumbor.unicore.io", 
-  "slug": "if-man-watching-woman-or-girl-when-she-does-not-want-be-watched-or-isnt-expecting-be-watched-wrong", 
+  "slug": "is-it-wrong-if-a-man-watches-a-woman-or-a-girl-when-she-does-not-want-to-be-watched-or-isnt-expecting-to-be-watched", 
   "uuid": "b47141d606374583bb55c3c4954ce4e9"
 }
